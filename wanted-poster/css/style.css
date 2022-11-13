@@ -113,7 +113,10 @@ h5{
     }
 /* Section & Paragraph */
 section{
-        
+        margin-top: .5 auto .5 auto;
+        padding: 0 1;
+        width:90%;
+
 
 
 }
@@ -127,8 +130,15 @@ img {
     max-width:800px;
 }
 
-figure {}
+figure {
+        margin-bottom: 2;
+        padding-top: .5;
+
+}
 
 /* Footer */
-footer {}
+footer {
+        width: 2;
+        color: #333;
+}
 
