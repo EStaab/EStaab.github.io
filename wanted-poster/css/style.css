@@ -132,8 +132,10 @@ img {
 
 figure {
         margin-bottom: 2;
-        padding-top: .5;
 
+}
+figcaption{
+            padding-top: .5;
 }
 
 /* Footer */
