@@ -121,7 +121,11 @@ section{
 
 }
 
-p {}
+p {
+    margin-top: .5 auto .5 auto;
+        padding: 0 1;
+        width:90%;
+}
 
 /* Image & Figure */
 img {
