@@ -116,6 +116,7 @@ section{
         margin-top: .5 auto .5 auto;
         padding: 0 1;
         width:90%;
+        text-align:left;
 
 
 
@@ -140,6 +141,7 @@ figure {
 }
 figcaption{
             padding-top: .5;
+            text-align: right;
 }
 
 /* Footer */
